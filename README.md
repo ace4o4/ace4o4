@@ -17,7 +17,7 @@
 
 <img src="div.svg" alt="Holographic Divider" width="100%">
 
-### 🕹️ PLAYER-SELECT: **[ace4o4]**
+### 🕹️ PLAYER---SELECT: **[ace4o4]**
 
 > *"Code is the architecture of the imagination."*
 
