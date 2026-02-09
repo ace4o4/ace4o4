@@ -22,7 +22,7 @@
 > *"Code is the architecture of the imagination."*
 
 I am a **Level 25 Full Stack Developer** specializing in creating immersive, physics-based UI/UX and cross-platform experiences...
-Currently unlocking new skill trees in **Cyber Security** and **Artificial Intelligence** systems. My code doesn't just run; it *evolves*.
+Currently unlocking new skill trees in **Cyber Security** and **Artificial Intelligence** systems. My code doesn't just run; it *evolves*..
 
 <img src="div.svg" alt="Holographic Divider" width="100%">
 
