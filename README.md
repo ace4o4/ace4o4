@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/Ky5F6i2eKjkq6lXyBq/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Cyberpunk City Header" />
   
   <h1 style="font-size: 40px;"></h1>
-  
+
   <p>
     <a href="https://github.com/RaoSam-Code">
       <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&duration=3000&pause=1000&color=24E4FF&center=true&vCenter=true&width=500&lines=USER%3A+ace4o4;CLASS%3A+Full+Stack+Technomancer;MISSION%3A+Building+Digital+Worlds;STATUS%3A+Online" alt="Typing SVG" />
