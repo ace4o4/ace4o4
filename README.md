@@ -10,7 +10,6 @@
   </p>
 
 
-
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-success?style=for-the-badge&logo=linux&logoColor=black&color=00ff00" />
   <img src="https://img.shields.io/badge/SECURITY-MAXIMUM-red?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCATION-EARTH-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
