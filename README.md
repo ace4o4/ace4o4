@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/SECURITY-MAXIMUM-red?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCATION-EARTH-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
 </div>
+
 <img src="div.svg" alt="Holographic Divider" width="100%">
 
 ### 🕹️ PLAYER---SELECT: **[ace4o4]**
