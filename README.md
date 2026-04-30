@@ -8,7 +8,6 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&duration=3000&pause=1000&color=24E4FF&center=true&vCenter=true&width=500&lines=USER%3A+ace4o4;CLASS%3A+Full+Stack+Technomancer;MISSION%3A+Building+Digital+Worlds;STATUS%3A+Online" alt="Typing SVG" />
     </a>
   </p>
-
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-success?style=for-the-badge&logo=linux&logoColor=black&color=00ff00" />
   <img src="https://img.shields.io/badge/SECURITY-MAXIMUM-red?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCATION-EARTH-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
