@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ky5F6i2eKjkq6lXyBq/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Cyberpunk City Header" />
-  
+
   <h1 style="font-size: 40px;"></h1>
   <p>
     <a href="https://github.com/RaoSam-Code">
