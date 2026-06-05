@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import { motion, useScroll, useTransform } from 'framer-motion';
+import { motion, useScroll, useTransform, type MotionValue } from 'framer-motion';
 import { LiveProjectButton } from './LiveProjectButton';
 import { FadeIn } from './FadeIn';
 
@@ -36,7 +36,7 @@ const projects = [
   }
 ];
 
-function ProjectCard({ project, index, targetScale, range, progress }: { project: typeof projects[0], index: number, targetScale: number, range: number[], progress: any }) {
+function ProjectCard({ project, index, targetScale, range, progress }: { project: typeof projects[0], index: number, targetScale: number, range: [number, number], progress: MotionValue<number> }) {
   const containerRef = useRef<HTMLDivElement>(null);
   const scale = useTransform(progress, range, [1, targetScale]);
   
