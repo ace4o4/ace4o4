@@ -8,7 +8,6 @@ interface FadeInProps {
   x?: number;
   y?: number;
   className?: string;
-  as?: any;
 }
 
 export function FadeIn({ 
@@ -18,12 +17,9 @@ export function FadeIn({
   x = 0, 
   y = 30, 
   className = "", 
-  as = "div" 
 }: FadeInProps) {
-  const Component = motion.create(as as any);
-
   return (
-    <Component
+    <motion.div
       className={className}
       initial={{ opacity: 0, x, y }}
       whileInView={{ opacity: 1, x: 0, y: 0 }}
@@ -35,6 +31,6 @@ export function FadeIn({
       }}
     >
       {children}
-    </Component>
+    </motion.div>
   );
 }
