@@ -6,7 +6,7 @@ on:
       - README.md
       - .github/workflows/gitskins-space-shooter.yml
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 concurrency:
