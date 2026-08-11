@@ -70,11 +70,7 @@ Currently unlocking new skill trees in **UI/UX Design** , **Game Development** a
 The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a visual system.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ace4o4/ace4o4/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ace4o4/ace4o4/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ace4o4/ace4o4/output/github-snake-dark.svg" width="100%">
-  </picture>
+   <img src="https://raw.githubusercontent.com/ace4o4/ace4o4/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
 </p>
 
 ## Neural Network Architecture (3D Commits)
