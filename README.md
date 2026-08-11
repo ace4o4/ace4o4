@@ -80,6 +80,13 @@ The contribution graph is part of the profile experience. It refreshes automatic
 </p>
 
 
+## Commits Streaks & Isometric Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ace4o4/ace4o4/main/metrics.plugin.isocalendar.svg" width="100%" alt="Commits Streaks and 3D Calendar" />
+</p>
+
+
 
 <p align="center">
   <a href="https://x.com/Cyber_Ace007"> Twitter/X</a>
