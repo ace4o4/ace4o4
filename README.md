@@ -1,81 +1,96 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ACE4O4%20%F0%9F%9A%80&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Lover%20%7C%20Cyber%20Creative&descAlign=50&descAlignY=60&color=0:0f0c29,50:302b63,100:00d4ff&fontColor=ffffff&animation=twinkling" alt="Header" width="100%"/>
-
-  <a href="https://github.com/ace4o4">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=30&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=760&lines=Designing+premium+digital+experiences;Building+fast+clean+modern+products;Code+%2B+Motion+%2B+UX+%3D+Magic" alt="Typing Animation"/>
-  </a>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-16f2b3?style=for-the-badge&labelColor=0f172a" alt="Status"/>
-  <img src="https://img.shields.io/badge/FOCUS-UI%2FUX%20%2B%20FULLSTACK-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Focus"/>
-  <img src="https://komarev.com/ghpvc/?username=ace4o4&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Views"/>
-</div>
-
 <p align="center">
-  <img src="https://github.com/ace4o4/ace4o4/blob/main/div.svg" alt="Divider" width="100%"/>
-</p>
-
-## ✨ About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTR0M2NoZW9vY2N5c2EyODVhMmY2a2M0Y3BmeGRrNTcxM3hyMm9rbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Animated coding"/>
-</div>
-
-- 🎨 I love crafting **clean, premium, and motion-first interfaces**.
-- ⚡ I build **fast, scalable full-stack products** with strong UX thinking.
-- 🧠 I’m exploring **Cyber Security** and **AI-native applications**.
-- 🚀 My goal: deliver experiences that feel both **smart and cinematic**.
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,python,java,cpp,tailwind,mongodb,firebase,supabase,git,github,docker&theme=dark" alt="Tech stack"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ace4o4&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=ace4o4&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Harish" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Framer_Motion-ff4ecd?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI_Engineering-0ea5e9?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Performance_Obsessed-22c55e?style=for-the-badge&logo=lighthouse&logoColor=white"/>
-</p>
-
-## 📊 Live GitHub Pulse
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ace4o4&theme=tokyonight" width="95%" alt="Profile details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ace4o4&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="48%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ace4o4&theme=tokyonight&hide_border=true" width="48%" alt="Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ace4o4&theme=react-dark&bg_color=0d1117&hide_border=true&line=00e5ff&point=8b5cf6&area=true" width="95%" alt="Activity graph"/>
-</div>
-
-## 🎯 Current Missions
-
-| Project | Focus | Stack | Status |
-|:--|:--|:--|:--:|
-| [Memory Drift](https://github.com/RaoSam-Code/memory-drift) | Physics-style interaction experience | React, TypeScript, Motion | 🟢 Active |
-| [Apt/Web3](https://github.com/RaoSam-Code/apt) | Gas-efficient blockchain experiments | Aptos, Move | 🔵 R&D |
-| Nexus (private concept) | Social interaction matrix | Node, Realtime systems | 🟡 In Design |
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/satyamyadav08">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/RaoSamCode">
-    <img src="https://img.shields.io/badge/X(Twitter)-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:raosatyam152@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://github.com/ace4o4"><b>Harish's GitHub</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ace4o4?tab=repositories">Projects</a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00d4ff,50:5b21b6,100:0f172a" alt="Footer"/>
+  <img src="https://www.gitskins.com/api/section/wordmark?username=ace4o4&theme=aurora&label=Harish" width="100%" alt="Animated 3D wordmark for Harish" />
+</p>
+
+## Code is the architecture of the imagination
+
+I am a **Level 25 Full Stack Developer** specializing in creating immersive, physics-based UI/UX and cross-platform experiences. My code doesn't just run; it *evolves*.
+
+Currently unlocking new skill trees in **UI/UX Design** , **Game Development** and **Artificial Intelligence** systems.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ace4o4&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=ace4o4&theme=aurora&mode=dark" width="100%" alt="About Harish" />
+  </picture>
+</p>
+
+---
+
+## Current focus
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=ace4o4&theme=aurora&items=UI/UX::Physics-based%20immersive%20experiences|Game%20Development::Creating%20immersive%20%20games|AI%20Systems::Building%20Artificial%20Intelligence%20systems" width="100%" alt="Current focus areas for Harish" />
+</p>
+
+
+<!-- ## Selected work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=ace4o4&theme=aurora" width="100%" alt="Selected projects by Harish" />
+</p> -->
+
+<!-- | Mission ID | Objective | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[Memo-Drift](https://github.com/ace4o4/memory-drift)** | **Physics-Based Memories**<br>Floating notes using Matter.js engine. | `React` `TS` `Physics` | 🟢 Online |
+| **[Nexus]** | **Social Grid**<br>Activity-based connection matrix. | `Node` `Graph` `Real-time` | 🟡 Loading... |
+| **[Web3](https://github.com/ace4o4/apt)** | **Chain Link**<br>Gasless transaction protocol. | `Aptos` `Move` `Crypto` | 🔵 R&D |
+
+<p align="center">
+  <a href="https://github.com/ace4o4?tab=repositories"><b>Explore all repositories</b></a>
+</p> -->
+---
+<br><br>
+## Engineering signal
+
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=ace4o4&theme=aurora" width="100%" alt="GitHub activity stats for Harish" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace4o4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+## A profile that moves
+
+The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a visual system.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ace4o4/ace4o4/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ace4o4/ace4o4/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ace4o4/ace4o4/output/github-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
+## Neural Network Architecture (3D Commits)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ace4o4/ace4o4/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Matrix City" />
+</p>
+
+
+
+<p align="center">
+  <a href="https://x.com/Cyber_Ace007"> Twitter/X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/harish-kumar-chhillar/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <sub>Owner of CYBER SOULZ.<br></sub>
 </p>
